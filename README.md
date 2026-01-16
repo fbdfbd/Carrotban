@@ -33,12 +33,11 @@
 - 로비 기능: 상점, 퀘스트, 공지, 프로필, 옵션
 
 ## 스크린샷
-<img width="394" height="818" alt="캡처_2026_01_17_00_04_57_778" src="https://github.com/user-attachments/assets/29170fdb-64ad-4870-ba70-3cf90d802bdc" />
-<img width="394" height="818" alt="캡처_2026_01_17_00_04_52_674" src="https://github.com/user-attachments/assets/e1c63451-8962-41a2-a30b-61d6d4e275d3" />
 <img width="394" height="818" alt="캡처_2026_01_17_00_04_49_983" src="https://github.com/user-attachments/assets/6e127b13-7091-4a30-996c-3bb1d8b268d9" />
 <img width="394" height="818" alt="캡처_2026_01_17_00_04_46_571" src="https://github.com/user-attachments/assets/7ad6817c-9d51-4d5b-9a5c-c1f82ea5e97a" />
 <img width="394" height="818" alt="캡처_2026_01_17_00_04_42_288" src="https://github.com/user-attachments/assets/4bd4fc37-da44-4ca1-9b50-af47837048cf" />
 <img width="394" height="818" alt="캡처_2026_01_17_00_04_37_105" src="https://github.com/user-attachments/assets/d06bbcc3-ce96-4658-aa43-b14209ee485c" />
 <img width="394" height="818" alt="캡처_2026_01_17_00_04_20_56" src="https://github.com/user-attachments/assets/db9838b8-516d-47e8-9595-87bb1299b3b1" />
 <img width="394" height="818" alt="캡처_2026_01_17_00_04_13_212" src="https://github.com/user-attachments/assets/4c1e0842-f54f-49b5-af1b-b40676ab1294" />
-
+<img width="394" height="818" alt="캡처_2026_01_17_00_04_57_778" src="https://github.com/user-attachments/assets/29170fdb-64ad-4870-ba70-3cf90d802bdc" />
+<img width="394" height="818" alt="캡처_2026_01_17_00_04_52_674" src="https://github.com/user-attachments/assets/e1c63451-8962-41a2-a30b-61d6d4e275d3" />
