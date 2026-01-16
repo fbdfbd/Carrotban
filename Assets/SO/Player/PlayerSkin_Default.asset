@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 367973e7f44829242b6a2245de40fa33, type: 3}
+  m_Name: PlayerSkin_Default
+  m_EditorClassIdentifier: 
+  skinName: DEFAULT
+  moveSprites:
+  - {fileID: -266162786, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: 729120858, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: 782375429, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: -1380894434, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: 223762103, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: 1615783439, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: 705389559, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: 435166661, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: -822974620, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: 231836695, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: 1602074775, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: -685899208, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: 657746408, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: -374133388, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: -600460362, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  - {fileID: 1579088429, guid: 592ee0c9e7a1cc145a429bd0384a4fcb, type: 3}
+  hoeSprites:
+  - {fileID: 1420580455, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: -60056111, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: -758968787, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: -67440278, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: -658957476, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: -371239430, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: 540305370, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: 496762381, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  axeSprites:
+  - {fileID: 328049423, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: 874793838, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: 1653889781, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: 572382944, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: -876207342, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: 1082437948, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: 138456454, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: -872291458, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  wateringSprites:
+  - {fileID: 1071429438, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: 254198275, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: -386491408, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: -321248570, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: -1381284966, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: -1659563077, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: 968476143, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}
+  - {fileID: 1846381205, guid: 6743cf2054aa40348a26ab9628461e45, type: 3}

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3139915993
+    locked: 0
+  - name: Floor
+    uniqueID: 3069604299
+    locked: 0
+  - name: Walk
+    uniqueID: 2318192661
+    locked: 0
+  - name: Environment
+    uniqueID: 1939535317
+    locked: 0
+  - name: Fences
+    uniqueID: 824194621
+    locked: 0
+  - name: Player
+    uniqueID: 848293449
+    locked: 0
+  - name: Object
+    uniqueID: 3273834751
+    locked: 0
+  - name: UI
+    uniqueID: 495440331
+    locked: 0
